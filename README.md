@@ -6,7 +6,7 @@ The application allows users to browse workouts, view detailed workout informati
 
 ## Live Demo
 
-View Live Demo-https://asraful-islam-project.netlify.app
+[View Live Demo]-https://asraful-islam-project.netlify.app
 
 ## GitHub Repository
 
