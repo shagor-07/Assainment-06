@@ -6,11 +6,11 @@ The application allows users to browse workouts, view detailed workout informati
 
 ## Live Demo
 
-[View Live Demo]-https://asraful-islam-project.netlify.app
+View Live Demo-https://asraful-islam-project.netlify.app
 
 ## GitHub Repository
 
-[View Source Code]-https://github.com/shagor-07/Assainment-06
+View Source Code-https://github.com/shagor-07/Assainment-06
 
 ## Features
 
